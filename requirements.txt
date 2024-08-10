@@ -6,4 +6,4 @@ fpdf
 mysql
 streamlit
 mysql-connector-python
-pand
+
