@@ -6,4 +6,4 @@ PyMuPDF
 fpdf
 mysql
 mysql-connector-python
-
+mysql-connector-python
