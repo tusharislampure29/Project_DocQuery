@@ -6,5 +6,4 @@ fpdf
 mysql
 streamlit
 mysql-connector-python
-pip install mysql-connector-python
-pip install --upgrade pip setuptools
+upgrade pip setuptools
