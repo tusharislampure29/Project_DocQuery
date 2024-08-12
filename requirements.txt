@@ -1,4 +1,4 @@
-cryptography
+pip install cryptography
 pandas
 python-docx
 PyMuPDF
