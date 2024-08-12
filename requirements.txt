@@ -5,6 +5,5 @@ python-docx
 PyMuPDF
 fpdf
 mysql
-
 mysql-connector-python
-upgrade pip setuptools
+
